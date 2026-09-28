@@ -1,1 +1,1 @@
-# R25EH147
+I am Tejas Shirasagar, a motivated B.Tech student at REVA University with a strong passion for programming, computer science fundamentals, and practical project development. Driven by continuous learning and adaptability, I enjoy exploring new technologies, earning certifications from platforms like IBM and Scaler, and building real-world software solutions. My goal is to grow into a skilled technology professional by collaborating on innovative projects and expanding my practical experience in the tech field.
